@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="SceneLib2" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;CMake Files\scenelib2\;CMake Files\CMakeModules\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\usr\share\;CMake Files\..\..\..\..\..\usr\share\OpenCV\;CMake Files\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\..\usr\local\lib\cmake\Pangolin\;CMake Files\examples\;CMake Files\BUILD\;CMake Files\BUILD\scenelib2\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="edit_cache">
+         <Option working_dir="/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/Makefile&quot;  VERBOSE=1 edit_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="scenelib2">
+         <Option output="/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/scenelib2/libscenelib2.so" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/scenelib2" />
+         <Option object_output="./" />
+         <Option type="3" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2" />
+            <Add directory="/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/scenelib2" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/eigen3" />
+            <Add directory="/usr/include/opencv" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/lib/cmake/Pangolin/../../../include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/scenelib2/Makefile&quot;  VERBOSE=1 scenelib2" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/scenelib2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/scenelib2/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/scenelib2/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="scenelib2/fast">
+         <Option output="/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/scenelib2/libscenelib2.so" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/scenelib2" />
+         <Option object_output="./" />
+         <Option type="3" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2" />
+            <Add directory="/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/scenelib2" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/eigen3" />
+            <Add directory="/usr/include/opencv" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/lib/cmake/Pangolin/../../../include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/scenelib2/Makefile&quot;  VERBOSE=1 scenelib2/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/scenelib2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/scenelib2/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/scenelib2/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="MonoSlamSceneLib1">
+         <Option output="/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/examples/MonoSlamSceneLib1" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/examples" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/bartlomiej/Praca/SCENELIB/SceneLib2/BUILD/scenelib2" />
+            <Add directory="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/eigen3" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+            <Add directory="/usr/local/lib/cmake/Pangolin/../../../include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/examples/Makefile&quot;  VERBOSE=1 MonoSlamSceneLib1" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/examples/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/examples/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="MonoSlamSceneLib1/fast">
+         <Option output="/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/examples/MonoSlamSceneLib1" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/examples" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/bartlomiej/Praca/SCENELIB/SceneLib2/BUILD/scenelib2" />
+            <Add directory="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/eigen3" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+            <Add directory="/usr/local/lib/cmake/Pangolin/../../../include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/examples/Makefile&quot;  VERBOSE=1 MonoSlamSceneLib1/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/examples/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/examples/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/examples/MonoSlamSceneLib1.cpp">
+         <Option target="MonoSlamSceneLib1"/>
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2/camera.cpp">
+         <Option target="scenelib2"/>
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2/camera.h">
+         <Option target="scenelib2"/>
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2/feature.cpp">
+         <Option target="scenelib2"/>
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2/feature.h">
+         <Option target="scenelib2"/>
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2/feature_init_info.cpp">
+         <Option target="scenelib2"/>
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2/feature_init_info.h">
+         <Option target="scenelib2"/>
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2/feature_model.cpp">
+         <Option target="scenelib2"/>
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2/feature_model.h">
+         <Option target="scenelib2"/>
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2/framegrabber/filegrabber.cpp">
+         <Option target="scenelib2"/>
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2/framegrabber/filegrabber.h">
+         <Option target="scenelib2"/>
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2/framegrabber/framegrabber.cpp">
+         <Option target="scenelib2"/>
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2/framegrabber/framegrabber.h">
+         <Option target="scenelib2"/>
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2/framegrabber/usbcamgrabber.cpp">
+         <Option target="scenelib2"/>
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2/framegrabber/usbcamgrabber.h">
+         <Option target="scenelib2"/>
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2/full_feature_model.cpp">
+         <Option target="scenelib2"/>
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2/full_feature_model.h">
+         <Option target="scenelib2"/>
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2/graphic/graphictool.cpp">
+         <Option target="scenelib2"/>
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2/graphic/graphictool.h">
+         <Option target="scenelib2"/>
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2/improc/improc.cpp">
+         <Option target="scenelib2"/>
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2/improc/improc.h">
+         <Option target="scenelib2"/>
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2/improc/search_multiple_overlapping_ellipses.cpp">
+         <Option target="scenelib2"/>
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2/improc/search_multiple_overlapping_ellipses.h">
+         <Option target="scenelib2"/>
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2/kalman.cpp">
+         <Option target="scenelib2"/>
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2/kalman.h">
+         <Option target="scenelib2"/>
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2/monoslam.cpp">
+         <Option target="scenelib2"/>
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2/monoslam.h">
+         <Option target="scenelib2"/>
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2/motion_model.cpp">
+         <Option target="scenelib2"/>
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2/motion_model.h">
+         <Option target="scenelib2"/>
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2/part_feature_model.cpp">
+         <Option target="scenelib2"/>
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2/part_feature_model.h">
+         <Option target="scenelib2"/>
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2/support/eigen_util.cpp">
+         <Option target="scenelib2"/>
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2/support/eigen_util.h">
+         <Option target="scenelib2"/>
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2/support/math_util.cpp">
+         <Option target="scenelib2"/>
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2/support/math_util.h">
+         <Option target="scenelib2"/>
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2/support/pangolin_util.cpp">
+         <Option target="scenelib2"/>
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2/support/pangolin_util.h">
+         <Option target="scenelib2"/>
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\scenelib2\" />
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/scenelib2/SceneLib2Config.cmake.in">
+          <Option virtualFolder="CMake Files\scenelib2\" />
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/CMakeModules/FindEigen3.cmake">
+          <Option virtualFolder="CMake Files\CMakeModules\" />
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/../../../../../usr/share/OpenCV/OpenCVConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\share\OpenCV\" />
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/../../../../../usr/share/OpenCV/OpenCVConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\share\OpenCV\" />
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/../../../../../usr/share/OpenCV/OpenCVModules.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\share\OpenCV\" />
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/../../../../../usr/share/OpenCV/OpenCVModules-release.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\share\OpenCV\" />
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/../../../../../usr/local/lib/cmake/Pangolin/PangolinConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\Pangolin\" />
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/../../../../../usr/local/lib/cmake/Pangolin/PangolinConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\Pangolin\" />
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/../../../../../usr/local/lib/cmake/Pangolin/PangolinTargets.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\Pangolin\" />
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/../../../../../usr/local/lib/cmake/Pangolin/PangolinTargets-release.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\Pangolin\" />
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/../../../../../usr/local/lib/cmake/Pangolin/PangolinConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\Pangolin\" />
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/../../../../../usr/local/lib/cmake/Pangolin/PangolinConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\Pangolin\" />
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/../../../../../usr/local/lib/cmake/Pangolin/PangolinTargets.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\Pangolin\" />
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/../../../../../usr/local/lib/cmake/Pangolin/PangolinTargets-release.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\Pangolin\" />
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/examples/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\examples\" />
+      </Unit>
+      <Unit filename="/home/bartlomiej/Praca/SCENELIB/SceneLib2/BUILD/scenelib2/SceneLib2Config.cmake">
+          <Option virtualFolder="CMake Files\BUILD\scenelib2\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>

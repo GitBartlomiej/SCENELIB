@@ -1,0 +1,8 @@
+/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/CMakeFiles/edit_cache.dir
+/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/CMakeFiles/rebuild_cache.dir
+/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/scenelib2/CMakeFiles/edit_cache.dir
+/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/scenelib2/CMakeFiles/rebuild_cache.dir
+/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/scenelib2/CMakeFiles/scenelib2.dir
+/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/examples/CMakeFiles/edit_cache.dir
+/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/examples/CMakeFiles/rebuild_cache.dir
+/home/bartlomiej/Praca/SCENELIB/build-SceneLib2-Desktop_Qt_5_7_0_GCC_64bit-Release/examples/CMakeFiles/MonoSlamSceneLib1.dir
